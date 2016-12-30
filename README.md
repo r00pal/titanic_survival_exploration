@@ -1,7 +1,7 @@
 ## Project: Titanic Survival Exploration
 
 ##Project Overview
-Decision functions are created that attempt to predict urvival outcomes from the 1912 Titanic disaster based on each passenger's features, such as sex and age. The algorithm accurately predicts data with accuracy of 80% of the passengers provided in the data
+Decision functions are created that attempt to predict survival outcomes from the 1912 Titanic disaster based on each passenger's features, such as sex and age. The algorithm accurately predicts data with accuracy of 80% of the passengers provided in the data
 
 
 ### Softwares and libraries
